@@ -1,14 +1,11 @@
 # IT-community
 Список IT-сообществ
 
-## Google Developer Group (GDG)
-[GDG](gdg.md)
-
-## Developer Student Club (DSC)
-
-### DSC Voronezh
-- [Telegram-чат](https://t.me/dscvoronezh) - https://t.me/dscvoronezh
-- [VK](https://vk.com/dscvsu) - https://vk.com/dscvsu
+## Сообщества по городам
+- [Воронеж](Voronezh.md)
+- [Тамбов](Tambov.md)
+- [Липецк](Lipetsk.md)
+- [Белгород](Belgorod.md)
 
 ## Сообщества по направлениям
 
@@ -22,12 +19,6 @@
 ### Функциональное программирование
 - [λ-vrn - ex Scala User Group](https://t.me/lambdavrn) - https://t.me/lambdavrn
 
-## Сообщества по городам
-
-### Воронеж
-
-### Тамбов
-
-#### Tambov.dev
-- [VK](https://vk.com/tambov_dev) - https://vk.com/tambov_dev
-- [Telegram-чат](https://t.me/tambov_dev) - https://t.me/tambov_dev
+## Сообщества от Google
+- [Google Developer Group](gdg.md)
+- [Developer Student Club](dsc.md)
