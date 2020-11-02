@@ -28,3 +28,13 @@
 
 ### Функциональное программирование
 - [λ-vrn - ex Scala User Group](https://t.me/lambdavrn) - https://t.me/lambdavrn
+
+## Сообщества по городам
+
+### Воронеж
+
+### Тамбов
+
+#### Tambov.dev
+- [VK](https://vk.com/tambov_dev) - https://vk.com/tambov_dev
+- [Telegram-чат](https://t.me/tambov_dev) - https://t.me/tambov_dev
