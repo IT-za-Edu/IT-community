@@ -11,4 +11,4 @@
 - [VK](https://vk.com/deeprefactoring)
 
 ## λ-vrn (ex Scala User Group)
-- [Telegram-чат]https://t.me/lambdavrn - https://t.me/lambdavrn
+- [Telegram-чат](https://t.me/lambdavrn) - https://t.me/lambdavrn
