@@ -8,6 +8,7 @@
 - [Тамбов](Tambov.md)
 - [Липецк](Lipetsk.md)
 - [Белгород](Belgorod.md)
+- [Калининград](Kaliningrad.md)
 
 ## Сообщества по направлениям
 - [SAP](sap.md)
