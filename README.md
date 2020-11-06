@@ -9,6 +9,7 @@
 - [Липецк](Lipetsk.md)
 - [Белгород](Belgorod.md)
 - [Калининград](Kaliningrad.md)
+- [Волгоград](Volgograd.md)
 
 ## Сообщества по направлениям
 - [SAP](sap.md)
