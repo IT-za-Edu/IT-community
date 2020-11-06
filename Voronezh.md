@@ -21,3 +21,7 @@
 - [G+](https://plus.google.com/u/0/communities/107861224854496042076) - https://plus.google.com/u/0/communities/107861224854496042076
 - [GitHub](https://github.com/it-for-free) - https://github.com/it-for-free
 - [XMPP messager](it-for-free@itforfree.net) - it-for-free@itforfree.net
+
+## Beer JS Voronezh
+- [GitHub](https://github.com/beerjs/voronezh) - https://github.com/beerjs/voronezh
+- [Telegram-чат](https://t.me/beer_js_voronezh) - https://t.me/beer_js_voronezh
