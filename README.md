@@ -14,6 +14,7 @@
 - [SAP](sap.md)
 - [Функциональное программирование](fp.md)
 - [GameDev](gamedev.md)
+- [JavaScript](js.md)
 
 ## Сообщества от Google
 - [Google Developer Group](gdg.md)
