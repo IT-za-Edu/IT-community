@@ -16,6 +16,7 @@
 - [Функциональное программирование](fp.md)
 - [GameDev](gamedev.md)
 - [JavaScript](js.md)
+- [C++](cpp.md)
 
 ## Сообщества от Google
 - [Google Developer Group](gdg.md)
