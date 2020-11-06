@@ -13,6 +13,7 @@
 ## Сообщества по направлениям
 - [SAP](sap.md)
 - [Функциональное программирование](fp.md)
+- [GameDev](gamedev.md)
 
 ## Сообщества от Google
 - [Google Developer Group](gdg.md)
