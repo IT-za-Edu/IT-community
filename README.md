@@ -19,3 +19,7 @@
 ## Сообщества от Google
 - [Google Developer Group](gdg.md)
 - [Developer Student Club](dsc.md)
+
+Похожие списки:
+- https://github.com/Hexlet/ru-local-communities
+- https://dev.by/news/400-it-communities-by-standuply
