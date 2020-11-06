@@ -8,6 +8,7 @@
 - [Тамбов](Tambov.md)
 - [Липецк](Lipetsk.md)
 - [Белгород](Belgorod.md)
+- [Курск](Kursk.md)
 - [Калининград](Kaliningrad.md)
 - [Волгоград](Volgograd.md)
 
