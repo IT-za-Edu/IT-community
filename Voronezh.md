@@ -1,7 +1,7 @@
 # Воронеж
 
 ## Глубокий рефакторинг
-- [Сайт](https://deeprefactoring.ru) - https://deeprefactoring.r
+- [Сайт](https://deeprefactoring.ru) - https://deeprefactoring.ru
 - [Telegram-чат](https://t.me/deeprefactoring) - https://t.me/deeprefactoring
 - [Telegram-канал](https://t.me/deeprefactoring_news) - https://t.me/deeprefactoring_news
 - [YouTube](https://www.youtube.com/c/deeprefactoring) - https://www.youtube.com/c/deeprefactoring
@@ -25,3 +25,14 @@
 ## Beer JS Voronezh
 - [GitHub](https://github.com/beerjs/voronezh) - https://github.com/beerjs/voronezh
 - [Telegram-чат](https://t.me/beer_js_voronezh) - https://t.me/beer_js_voronezh
+
+## SAP Community Voronezh
+- [Сайт](http://sapcmntvrn.ru/) - http://sapcmntvrn.ru
+- [Telegram-чат](https://t.me/sapcmntvrn) - https://t.me/sapcmntvrn
+- [YouTube](https://www.youtube.com/channel/UC2NBS5QpCILSkkbRvfVA6fA) - https://www.youtube.com/channel/UC2NBS5QpCILSkkbRvfVA6fA
+- [VK](https://vk.com/sapcommunityvrn) - https://vk.com/sapcommunityvrn
+
+## Golang Voronezh
+- [Telegram-чат](https://t.me/golang_vrn) - https://t.me/golang_vrn
+- [GitHub](https://github.com/golang-voronezh) - https://github.com/golang-voronezh
+- [Meetup](https://www.meetup.com/ru-RU/Golang-Voronezh/) - https://www.meetup.com/ru-RU/Golang-Voronezh/
