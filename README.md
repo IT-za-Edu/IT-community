@@ -18,6 +18,7 @@
 - [GameDev](gamedev.md)
 - [JavaScript](js.md)
 - [C++](cpp.md)
+- [Oracle](oracle.md)
 
 ## Сообщества от Google
 - [Google Developer Group](gdg.md)
