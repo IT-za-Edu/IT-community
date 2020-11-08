@@ -19,6 +19,7 @@
 - [JavaScript](js.md)
 - [C++](cpp.md)
 - [Oracle](oracle.md)
+- [Go](golang.md)
 
 ## Сообщества от Google
 - [Google Developer Group](gdg.md)
