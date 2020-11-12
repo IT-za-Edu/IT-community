@@ -4,26 +4,26 @@
 [Правила по добавлению сообществ](CONTRIBUTING.md)
 
 ## Сообщества по городам
-- [Воронеж](Voronezh.md)
-- [Тамбов](Tambov.md)
-- [Липецк](Lipetsk.md)
-- [Белгород](Belgorod.md)
-- [Курск](Kursk.md)
-- [Калининград](Kaliningrad.md)
-- [Волгоград](Volgograd.md)
+- [Воронеж](city/Voronezh.md)
+- [Тамбов](city/Tambov.md)
+- [Липецк](city/Lipetsk.md)
+- [Белгород](city/Belgorod.md)
+- [Курск](city/Kursk.md)
+- [Калининград](city/Kaliningrad.md)
+- [Волгоград](city/Volgograd.md)
 
 ## Сообщества по направлениям
-- [SAP](sap.md)
-- [Функциональное программирование](fp.md)
-- [GameDev](gamedev.md)
-- [JavaScript](js.md)
-- [C++](cpp.md)
-- [Oracle](oracle.md)
-- [Go](golang.md)
+- [SAP](expertise/sap.md)
+- [Функциональное программирование](expertise/fp.md)
+- [GameDev](expertise/gamedev.md)
+- [JavaScript](expertise/js.md)
+- [C++](expertise/cpp.md)
+- [Oracle](expertise/oracle.md)
+- [Go](expertise/golang.md)
 
 ## Сообщества от Google
-- [Google Developer Group](gdg.md)
-- [Developer Student Club](dsc.md)
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
 
 Похожие списки:
 - https://github.com/Hexlet/ru-local-communities
