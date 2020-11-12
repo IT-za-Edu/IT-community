@@ -23,6 +23,7 @@
 - [QA](expertise/qa.md)
 - [Python](expertise/python.md)
 - [BA](expertise/ba.md)
+- [Android](expertise/android.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
