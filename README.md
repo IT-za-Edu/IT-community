@@ -21,6 +21,7 @@
 - [Oracle](expertise/oracle.md)
 - [Go](expertise/golang.md)
 - [QA](expertise/qa.md)
+- [Python](expertise/python.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
