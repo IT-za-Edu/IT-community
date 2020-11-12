@@ -24,6 +24,7 @@
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
 - [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
 
 Похожие списки:
 - https://github.com/Hexlet/ru-local-communities
