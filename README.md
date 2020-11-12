@@ -22,6 +22,7 @@
 - [Go](expertise/golang.md)
 - [QA](expertise/qa.md)
 - [Python](expertise/python.md)
+- [BA](expertise/ba.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
