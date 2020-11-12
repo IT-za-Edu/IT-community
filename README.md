@@ -24,6 +24,7 @@
 - [Python](expertise/python.md)
 - [Business analytics](expertise/ba.md)
 - [Android](expertise/android.md)
+- [Kotlin](expertise/kotlin.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
