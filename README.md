@@ -11,6 +11,7 @@
 - [Курск](city/Kursk.md)
 - [Калининград](city/Kaliningrad.md)
 - [Волгоград](city/Volgograd.md)
+- [Омск](city/Omsk.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
