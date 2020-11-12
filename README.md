@@ -3,6 +3,8 @@
 
 [Правила по добавлению сообществ](CONTRIBUTING.md)
 
+[Лицензия](LICENSE) - Creative Commons Zero v1.0 Universal
+
 ## Сообщества по городам
 - [Воронеж](city/Voronezh.md)
 - [Тамбов](city/Tambov.md)
