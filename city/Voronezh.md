@@ -36,3 +36,11 @@
 - [Telegram-чат](https://t.me/golang_vrn) - https://t.me/golang_vrn
 - [GitHub](https://github.com/golang-voronezh) - https://github.com/golang-voronezh
 - [Meetup](https://www.meetup.com/ru-RU/Golang-Voronezh/) - https://www.meetup.com/ru-RU/Golang-Voronezh/
+
+## Google
+### DSC Voronezh
+- [Telegram-чат](https://t.me/dscvoronezh) - https://t.me/dscvoronezh
+- [VK](https://vk.com/dscvsu) - https://vk.com/dscvsu
+
+### GDG Voronezh
+- [Telegram-чат](https://t.me/gdgvrn) - https://t.me/gdgvrn
