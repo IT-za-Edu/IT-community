@@ -27,6 +27,7 @@
 - [Business analytics](expertise/ba.md)
 - [Android](expertise/android.md)
 - [Kotlin](expertise/kotlin.md)
+- [Linux](expertise/linux.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
