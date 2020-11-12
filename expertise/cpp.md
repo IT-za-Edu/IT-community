@@ -7,3 +7,7 @@
 - [Telegram-канал](https://telegram.me/cpp_russia_news)
 - [Telegram-чат](https://telegram.me/joinchat/CMhk-j_waI8vac99lMYOFQ) - https://telegram.me/joinchat/CMhk-j_waI8vac99lMYOFQ
 - [MeetUp](https://www.meetup.com/ru-RU/Moscow-C-User-Groups/) - https://www.meetup.com/ru-RU/Moscow-C-User-Groups/
+
+## С++ Kaliningrad Users
+- [Telegram-чат](https://t.me/cppklgd) - https://t.me/cppklgd
+- [GitHub](https://github.com/cppklgd) - https://github.com/cppklgd
