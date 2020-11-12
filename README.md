@@ -20,6 +20,7 @@
 - [C++](expertise/cpp.md)
 - [Oracle](expertise/oracle.md)
 - [Go](expertise/golang.md)
+- [QA](expertise/qa.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
