@@ -7,3 +7,4 @@
 
 ## GDG Kaliningrad
 - [Telegram-чат](https://t.me/gdgkaliningrad) - https://t.me/gdgkaliningrad
+- [Telegram-канал](https://t.me/gdgkld) - https://t.me/gdgkld
