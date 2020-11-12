@@ -12,6 +12,7 @@
 - [Калининград](city/Kaliningrad.md)
 - [Волгоград](city/Volgograd.md)
 - [Омск](city/Omsk.md)
+- [Пермь](city/Perm.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
