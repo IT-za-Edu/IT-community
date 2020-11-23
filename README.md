@@ -30,6 +30,7 @@
 - [Android](expertise/android.md)
 - [Kotlin](expertise/kotlin.md)
 - [Linux](expertise/linux.md)
+- [CIO](expertise/cio.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
