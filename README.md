@@ -1,3 +1,7 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/it-edu/it-community/badge)](https://www.codefactor.io/repository/github/it-edu/it-community)
+
+[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/0)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/0)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/1)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/1)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/2)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/2)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/3)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/3)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/4)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/4)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/5)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/5)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/6)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/6)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/7)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/7)
+
 # IT-community
 Список IT-сообществ. Рады информации и о крупных сообществах и о маленьких, о древних и новых, о всяких IT-сообществах
 
@@ -40,5 +44,3 @@
 Похожие списки:
 - https://github.com/Hexlet/ru-local-communities
 - https://dev.by/news/400-it-communities-by-standuply
-
-[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/0)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/0)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/1)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/1)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/2)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/2)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/3)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/3)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/4)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/4)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/5)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/5)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/6)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/6)[![](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/images/7)](https://sourcerer.io/fame/anst-foto/IT-Edu/IT-community/links/7)
