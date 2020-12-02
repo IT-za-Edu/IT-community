@@ -1,5 +1,5 @@
 # Women Techmakers (WTM)
-- [Telegram-канал](https://t.me/wtm_rus) - https://t.me/wtm_rus
+[Telegram-канал](https://t.me/wtm_rus) - https://t.me/wtm_rus
 
 ## WTM Kaliningrad
 - [Telegram-чат](https://t.me/wtm_kgd) - https://t.me/wtm_kgd

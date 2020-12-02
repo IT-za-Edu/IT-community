@@ -1,5 +1,4 @@
 # Google Developer Group (GDG)
-[Сайт](https://gdg.community.dev/) - https://gdg.community.dev/
 <!--
 ## GDG
 - [Сайт]()
@@ -17,6 +16,7 @@
 - [Telegram-канал](https://t.me/gdgrussia) - https://t.me/gdgrussia
 - [Telegram-чат](https://t.me/gdgrussiachat) - https://t.me/gdgrussia
 - [VK](https://vk.com/gdgrussia) - https://vk.com/gdgrussia
+- [Сайт](https://gdg.community.dev/) - https://gdg.community.dev/
 
 
 ## GDG Khabarovsk
