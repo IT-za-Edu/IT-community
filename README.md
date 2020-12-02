@@ -51,6 +51,9 @@
 - [Developer Student Club](Google/dsc.md)
 - [Women Techmakers](Google/wtm.md)
 
+## BeerJS
+- [BeerJS](beerjs.md)
+
 Похожие списки:
 - https://github.com/Hexlet/ru-local-communities
 - https://dev.by/news/400-it-communities-by-standuply
