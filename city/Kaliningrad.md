@@ -28,7 +28,18 @@
 - [Telegram-чат](https://t.me/wtm_kgd) - https://t.me/wtm_kgd
 
 ### DSC Kaliningrad
+#### DSC Immanuel Kant BFU
+- [VK](https://vk.com/dsc_ikbfu) - https://vk.com/dsc_ikbfu
 - [Telegram-чат](https://t.me/dsc_ikbfu) - https://t.me/dsc_ikbfu
+- [Instagram](https://www.instagram.com/dsc_ikbfu/) - https://www.instagram.com/dsc_ikbfu/
+- [Facebook](https://www.facebook.com/dscikbfu) - https://www.facebook.com/dscikbfu
+- [e-mail](dscikbfu@gmail.com) - dscikbfu@gmail.com
+
+#### DSC КГТУ
+- [VK](https://vk.com/dscklgtu) - https://vk.com/dscklgtu
+- [Telegram-канал](https://t.me/dsc_klgtu_important) - https://t.me/dsc_klgtu_important
+- [Telegram-чат](https://t.me/dsc_klgtu) - https://t.me/dsc_klgtu
+- [Discord](https://discord.gg/9BYbXMBJtR) - https://discord.gg/9BYbXMBJtR
 
 ### GDG Kaliningrad
 - [Telegram-чат](https://t.me/gdgkaliningrad) - https://t.me/gdgkaliningrad
