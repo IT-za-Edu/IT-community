@@ -19,6 +19,12 @@
 - [Волгоград](city/Volgograd.md)
 - [Омск](city/Omsk.md)
 - [Пермь](city/Perm.md)
+- [Владивосток](city/Vladivostok.md)
+- [Уфа](city/Ufa.md)
+- [Саратов](city/Saratov.md)
+- [Петрозаводск](city/Petrozavodsk.md)
+- [Нижний Новгород](city/Nizhny_Novgorod.md)
+- [Калуга](city/Kaluga.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
