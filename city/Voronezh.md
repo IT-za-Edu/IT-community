@@ -44,3 +44,7 @@
 
 ### GDG Voronezh
 - [Telegram-чат](https://t.me/gdgvrn) - https://t.me/gdgvrn
+- [VK](https://vk.com/gdgvoronezh) - https://vk.com/gdgvoronezh
+- [Instagram](https://www.instagram.com/gdg.voronezh/) - https://www.instagram.com/gdg.voronezh/
+- [Twitter](https://twitter.com/GdgVoronezh) - https://twitter.com/GdgVoronezh
+- [Facebook](https://www.facebook.com/gdgvoronezh) - https://www.facebook.com/gdgvoronezh

@@ -4,3 +4,9 @@
 
 ## DSC Vladivostok
 - [VK](https://vk.com/vldsc) - https://vk.com/vldsc
+
+### GDG Vladivostok
+- [Telegram-чат](https://t.me/vldchat) - https://t.me/vldchat
+- [VK](https://vk.com/vldcorg) - https://vk.com/vldcorg
+- [YouTube](https://www.youtube.com/channel/UCuHtWBcO-TWUVDWUMQVZFFw) - https://www.youtube.com/channel/UCuHtWBcO-TWUVDWUMQVZFFw
+- [Twitter](https://twitter.com/vldcorg) - https://twitter.com/vldcorg

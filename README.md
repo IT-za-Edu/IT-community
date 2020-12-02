@@ -28,7 +28,7 @@
 - [Москва](city/Moscow.md)
 - [Санкт-Петербург](city/St_Petersburg.md)
 - [Новосибирск](city/Novosibirsk.md)
-- [Ростов-на-Дону](city/Rostov.md)
+- [Ростов-на-Дону](city/Rostov-on-Don.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)

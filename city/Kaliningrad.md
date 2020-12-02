@@ -43,3 +43,7 @@
 
 ### GDG Kaliningrad
 - [Telegram-чат](https://t.me/gdgkaliningrad) - https://t.me/gdgkaliningrad
+- [Telegram-канал](https://t.me/gdgkld) - https://t.me/gdgkld
+- [VK](https://vk.com/gdg_kgd) - https://vk.com/gdg_kgd
+- [YouTube](https://www.youtube.com/channel/UCXEgJkiO3F3HonG3QBtEz3Q) - https://www.youtube.com/channel/UCXEgJkiO3F3HonG3QBtEz3Q
+- [Facebook](https://www.facebook.com/gdgkgd/) - https://www.facebook.com/gdgkgd/

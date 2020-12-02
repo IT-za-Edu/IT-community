@@ -30,3 +30,8 @@
 
 ## product perm people
 - [Telegram-чат](https://t.me/productperm)
+
+## Google
+
+### GDG Perm
+- [VK](https://vk.com/gdgperm) - https://vk.com/gdgperm

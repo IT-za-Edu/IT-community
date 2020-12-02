@@ -18,7 +18,6 @@
 - [VK](https://vk.com/gdgrussia) - https://vk.com/gdgrussia
 - [Сайт](https://gdg.community.dev/) - https://gdg.community.dev/
 
-
 ## GDG Khabarovsk
 - [Telegram-чат](https://t.me/GdgHa) - https://t.me/GdgHa
 - [Instagram](https://www.instagram.com/gdg_khv/) - https://www.instagram.com/gdg_khv/
@@ -128,7 +127,7 @@
 ## GDG Perm
 - [VK](https://vk.com/gdgperm) - https://vk.com/gdgperm
 
-## GDG SPB
+## GDG St. Petersburg
 - [VK](https://vk.com/gdgspbru) - https://vk.com/gdgspbru
 - [Meetup](https://www.meetup.com/ru-RU/gdgspb/) - https://www.meetup.com/ru-RU/gdgspb/
 - [Telegram-чат](https://t.me/gdgspb) - https://t.me/gdgspb

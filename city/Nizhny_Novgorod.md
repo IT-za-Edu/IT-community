@@ -14,3 +14,11 @@
 
 ## WTM Nizhnij Novgorod
 - [Telegram-чат](https://t.me/wtm_nn) - https://t.me/wtm_nn
+
+## GDG Nizhny Novgorod
+- [Telegram-чат](https://t.me/gdgnn) - https://t.me/gdgnn
+- [VK](https://vk.com/gdgnizhny) - https://vk.com/gdgnizhny
+- [Instagram](https://www.instagram.com/gdgnizhny/) - https://www.instagram.com/gdgnizhny/
+- [Twitter](https://twitter.com/gdgnizhny) - https://twitter.com/gdgnizhny
+- [Facebook](https://www.facebook.com/gdgnizhny) - https://www.facebook.com/gdgnizhny
+- [YouTube](https://www.youtube.com/channel/UC9ZDzE6h-K84Eg7-K1y1TCA) - https://www.youtube.com/channel/UC9ZDzE6h-K84Eg7-K1y1TCA
