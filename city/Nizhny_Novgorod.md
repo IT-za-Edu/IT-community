@@ -11,3 +11,6 @@
 #### DSC HSE Nizhny Novgorod
 - [VK](https://vk.com/dsc_hse) - https://vk.com/dsc_hse
 - [Instagram](https://www.instagram.com/dsc_hse_nn/) - https://www.instagram.com/dsc_hse_nn/
+
+## WTM Nizhnij Novgorod
+- [Telegram-чат](https://t.me/wtm_nn) - https://t.me/wtm_nn
