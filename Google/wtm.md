@@ -1,12 +1,13 @@
 # Women Techmakers (WTM)
 - [Telegram-канал](https://t.me/wtm_rus) - https://t.me/wtm_rus
+
 ## WTM Kaliningrad
 - [Telegram-чат](https://t.me/wtm_kgd) - https://t.me/wtm_kgd
 
 ## WTM Moscow
 - [Telegram-чат](https://t.me/wtm_moscow) - https://t.me/wtm_moscow
 
-## WTM Piter
+## WTM St. Petersburg
 - [Telegram-чат](https://t.me/wtmspb) - https://t.me/wtmspb
 
 ## WTM Novosibirsk
