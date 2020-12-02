@@ -19,7 +19,6 @@
 - [Telegram-чат](https://t.me/dsc_klgtu) - https://t.me/dsc_klgtu
 - [Discord](https://discord.gg/9BYbXMBJtR) - https://discord.gg/9BYbXMBJtR
 
-
 ## DSC Kaluga
 - [VK](https://vk.com/dsc_ksu) - https://vk.com/dsc_ksu
 
