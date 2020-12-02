@@ -1,4 +1,5 @@
 # Google Developer Group (GDG)
+[Сайт](https://gdg.community.dev/) - https://gdg.community.dev/
 <!--
 ## GDG
 - [Сайт]()
