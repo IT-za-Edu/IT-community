@@ -1,7 +1,6 @@
 # Санкт-Петербург
 
 ## Google
-
 ### GDG St. Petersburg
 - [VK](https://vk.com/gdgspbru) - https://vk.com/gdgspbru
 - [Meetup](https://www.meetup.com/ru-RU/gdgspb/) - https://www.meetup.com/ru-RU/gdgspb/
@@ -13,3 +12,6 @@
 
 ### WTM St. Petersburg
 - [Telegram-чат](https://t.me/wtmspb) - https://t.me/wtmspb
+
+## BeerJS spb
+- [GitHub](https://github.com/beerjs/spb) - https://github.com/beerjs/spb
