@@ -29,6 +29,8 @@
 - [Санкт-Петербург](city/St_Petersburg.md)
 - [Новосибирск](city/Novosibirsk.md)
 - [Ростов-на-Дону](city/Rostov-on-Don.md)
+- [Хабаровск](city/Khabarovsk.md)
+- [Казань](city/Kazan.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
