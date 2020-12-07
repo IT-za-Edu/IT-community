@@ -1,7 +1,6 @@
 # Нижний Новгород
 
 ## Google
-
 ### DSC Nizhny Novgorod
 #### Developer Student Clubs | UNN
 - [VK](https://vk.com/dsc_unn) - https://vk.com/dsc_unn
@@ -22,3 +21,7 @@
 - [Twitter](https://twitter.com/gdgnizhny) - https://twitter.com/gdgnizhny
 - [Facebook](https://www.facebook.com/gdgnizhny) - https://www.facebook.com/gdgnizhny
 - [YouTube](https://www.youtube.com/channel/UC9ZDzE6h-K84Eg7-K1y1TCA) - https://www.youtube.com/channel/UC9ZDzE6h-K84Eg7-K1y1TCA
+
+## BeerJS Nizhniy Novgorod
+- [GitHub](https://github.com/beerjs/nizhniy-novgorod) - https://github.com/beerjs/nizhniy-novgorod
+- [Telegram](https://t.me/beerjsnn) - https://t.me/beerjsnn
