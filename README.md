@@ -45,6 +45,8 @@
 - [Kotlin](expertise/kotlin.md)
 - [Linux](expertise/linux.md)
 - [CIO](expertise/cio.md)
+- [Data Science](expertise/data-science.md)
+- [Implanted electronics](expertise/implanted-electronics.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
