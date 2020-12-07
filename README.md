@@ -32,6 +32,7 @@
 - [Хабаровск](city/Khabarovsk.md)
 - [Казань](city/Kazan.md)
 - [Екатеринбург](city/Ekaterinburg.md)
+- [Челябинск](city/Chelyabinsk.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
