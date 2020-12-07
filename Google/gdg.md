@@ -43,9 +43,7 @@
 - [VK](https://vk.com/gdgnsk) - https://vk.com/gdgnsk
 - [YouTube](https://www.youtube.com/channel/UCKvqypT9a7-wMF6vLklWIgw) - https://www.youtube.com/channel/UCKvqypT9a7-wMF6vLklWIgw
 - [Meetup](https://www.meetup.com/ru-RU/GDGNsk/) - https://www.meetup.com/ru-RU/GDGNsk/
-- [Instagram]()
 - [Twitter](https://twitter.com/GDGNsk) - https://twitter.com/GDGNsk
-- [Facebook]()
 
 ## GDG Nizhny Novgorod
 - [Telegram-чат](https://t.me/gdgnn) - https://t.me/gdgnn
