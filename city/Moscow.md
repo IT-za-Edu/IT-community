@@ -1,7 +1,6 @@
 # Москва
 
 ## Google
-
 ### WTM Moscow
 - [Telegram-чат](https://t.me/wtm_moscow) - https://t.me/wtm_moscow
 
@@ -11,3 +10,8 @@
 - [Meetup](https://www.meetup.com/ru-RU/GDG-Moscow/) - https://www.meetup.com/ru-RU/GDG-Moscow/
 - [Facebook](https://www.facebook.com/gdgmsk.events/) - https://www.facebook.com/gdgmsk.events/
 - [YouTube](https://www.youtube.com/channel/UCfmGrNtGWRLJcV-bcPfDBxg) - https://www.youtube.com/channel/UCfmGrNtGWRLJcV-bcPfDBxg
+
+## BeerJS Moscow
+- [GitHub](https://github.com/beerjs/moscow) - https://github.com/beerjs/moscow
+- [Meetup](http://www.meetup.com/BeerJS-Moscow/) - http://www.meetup.com/BeerJS-Moscow/
+- [Telegram](https://telegram.me/beerjs) - https://telegram.me/beerjs
