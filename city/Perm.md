@@ -32,6 +32,8 @@
 - [Telegram-чат](https://t.me/productperm)
 
 ## Google
-
 ### GDG Perm
 - [VK](https://vk.com/gdgperm) - https://vk.com/gdgperm
+
+## BeerJS.Perm
+- [Telegram](https://t.me/permbeerjs)
