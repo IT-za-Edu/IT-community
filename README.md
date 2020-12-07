@@ -34,6 +34,7 @@
 - [Екатеринбург](city/Ekaterinburg.md)
 - [Челябинск](city/Chelyabinsk.md)
 - [Брянск](city/Bryansk.md)
+- [Ярославль](city/Yaroslavl.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
