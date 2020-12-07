@@ -1,6 +1,9 @@
 # Петрозаводск
 
 ## Google
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
 
 ### DSC Petrozavodsk
 - [Telegram-чат](https://t.me/joinchat/E6grDhoDqcBBPh717Bq5mw) - https://t.me/joinchat/E6grDhoDqcBBPh717Bq5mw

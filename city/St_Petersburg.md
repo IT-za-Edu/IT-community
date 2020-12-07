@@ -1,6 +1,10 @@
 # Санкт-Петербург
 
 ## Google
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
+
 ### GDG St. Petersburg
 - [VK](https://vk.com/gdgspbru) - https://vk.com/gdgspbru
 - [Meetup](https://www.meetup.com/ru-RU/gdgspb/) - https://www.meetup.com/ru-RU/gdgspb/

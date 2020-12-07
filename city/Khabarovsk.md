@@ -9,6 +9,10 @@
 - [Facebook](https://www.facebook.com/devDV.ru/) - https://www.facebook.com/devDV.ru/
 
 ## Google
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
+
 ### GDG Khabarovsk
 - [Сайт](https://gdgkhv.ru/) - https://gdgkhv.ru/
 - [Telegram-чат](https://t.me/GdgHa) - https://t.me/GdgHa

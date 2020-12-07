@@ -1,6 +1,10 @@
 # Нижний Новгород
 
 ## Google
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
+
 ### DSC Nizhny Novgorod
 #### Developer Student Clubs | UNN
 - [VK](https://vk.com/dsc_unn) - https://vk.com/dsc_unn

@@ -24,6 +24,10 @@
 - [Notion](https://www.notion.so/Android-bf98e0b0d6ed4dc992d2165bc9e7cca2) - https://www.notion.so/Android-bf98e0b0d6ed4dc992d2165bc9e7cca2
 
 ## Google
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
+
 ### WTM Kaliningrad
 - [Telegram-чат](https://t.me/wtm_kgd) - https://t.me/wtm_kgd
 

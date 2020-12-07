@@ -6,6 +6,10 @@
 - [Meetup](ttps://www.meetup.com/BeerJs-Kazan/) - https://www.meetup.com/BeerJs-Kazan/
 
 ## Google
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
+
 ### GDG Kazan
 - [VK](https://vk.com/gdgkazan) - https://vk.com/gdgkazan
 - [Meetup](https://www.meetup.com/ru-RU/GDG-Kazan/) - https://www.meetup.com/ru-RU/GDG-Kazan/

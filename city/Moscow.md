@@ -1,6 +1,10 @@
 # Москва
 
 ## Google
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
+
 ### WTM Moscow
 - [Telegram-чат](https://t.me/wtm_moscow) - https://t.me/wtm_moscow
 

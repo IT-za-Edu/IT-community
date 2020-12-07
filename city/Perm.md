@@ -32,6 +32,10 @@
 - [Telegram-чат](https://t.me/productperm)
 
 ## Google
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
+
 ### GDG Perm
 - [VK](https://vk.com/gdgperm) - https://vk.com/gdgperm
 

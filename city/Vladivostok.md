@@ -1,6 +1,10 @@
 # Владивосток
 
 ## Google
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
+
 ## DSC Vladivostok
 - [VK](https://vk.com/vldsc) - https://vk.com/vldsc
 

@@ -1,6 +1,9 @@
 # Уфа
 
 ## Goggle
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
 
 ### DSC Ufa
 - [VK](https://vk.com/dsc_ufa) - https://vk.com/dsc_ufa

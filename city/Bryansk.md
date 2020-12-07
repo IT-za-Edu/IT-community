@@ -6,6 +6,10 @@
 - [VK](https://vk.com/beerjs_bryansk) - https://vk.com/beerjs_bryansk
 
 ## Google
+- [Google Developer Group](Google/gdg.md)
+- [Developer Student Club](Google/dsc.md)
+- [Women Techmakers](Google/wtm.md)
+
 ### GDG Bryansk
 - [Telegram-чат](https://t.me/gdg_bryansk) - https://t.me/gdg_bryansk
 - [VK](https://vk.com/gdg_bryansk) - https://vk.com/gdg_bryansk
