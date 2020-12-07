@@ -18,3 +18,8 @@
 
 ## WTM Rostov
 - [Telegram-чат](https://t.me/wtmrnd) - https://t.me/wtmrnd
+
+## WTM Хабаровск
+- [Facebook](https://www.facebook.com/groups/397418544455112/) - https://www.facebook.com/groups/397418544455112/
+- [Instagram](https://www.instagram.com/wtm_khv/) - https://www.instagram.com/wtm_khv/
+- [DevDV](https://devdv.ru/projects/wtm) - https://devdv.ru/projects/wtm
