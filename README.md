@@ -60,7 +60,7 @@
 - [Women Techmakers](Google/wtm.md)
 
 ## BeerJS
-- [BeerJS](beerjs.md)
+- [BeerJS](BeerJS/beerjs.md)
 
 Похожие списки:
 - https://github.com/Hexlet/ru-local-communities
