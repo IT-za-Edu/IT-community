@@ -37,6 +37,7 @@
 - [Донецк](city/Donetsk.md)
 - [Краснодар](city/Krasnodar.md)
 - [Самара](city/Samara.md)
+- [Тверь](city/Tver.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
