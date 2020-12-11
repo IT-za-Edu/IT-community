@@ -36,6 +36,7 @@
 - [Ижевск](city/Izhevsk.md)
 - [Донецк](city/Donetsk.md)
 - [Краснодар](city/Krasnodar.md)
+- [Самара](city/Samara.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
