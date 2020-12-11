@@ -57,6 +57,7 @@
 - [Data Science](expertise/data-science.md)
 - [Implanted electronics](expertise/implanted-electronics.md)
 - [AI](expertise/ai.md)
+- [Instrumentation](expertise/instrumentation.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
