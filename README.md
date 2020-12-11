@@ -35,6 +35,7 @@
 - [Ярославль](city/Yaroslavl.md)
 - [Ижевск](city/Izhevsk.md)
 - [Донецк](city/Donetsk.md)
+- [Краснодар](city/Krasnodar.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
