@@ -46,3 +46,11 @@
 
 ## DSC Vladivostok
 - [VK](https://vk.com/vldsc) - https://vk.com/vldsc
+
+## DSC UrFU
+- [VK](https://vk.com/dsc_urfu) - https://vk.com/dsc_urfu
+- [Telegram](https://t.me/dsc_urfu) - https://t.me/dsc_urfu
+
+## DSC IngGU
+- [Instagram](https://www.instagram.com/dsc_magas/) - https://www.instagram.com/dsc_magas/
+- [Telegram](https://t.me/dsc_magas) - https://t.me/dsc_magas

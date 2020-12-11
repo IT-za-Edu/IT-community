@@ -14,3 +14,7 @@
 - [Meetup](https://www.meetup.com/ru-RU/GDG-Ekaterinburg) - https://www.meetup.com/ru-RU/GDG-Ekaterinburg
 - [YouTube](https://www.youtube.com/channel/UCGJrkPJOvf11AKVEgUhNsrg) - https://www.youtube.com/channel/UCGJrkPJOvf11AKVEgUhNsrg
 - [Facebook](https://facebook.com/gdg66) - https://facebook.com/gdg66
+
+### DSC UrFU
+- [VK](https://vk.com/dsc_urfu) - https://vk.com/dsc_urfu
+- [Telegram](https://t.me/dsc_urfu) - https://t.me/dsc_urfu

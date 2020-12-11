@@ -17,6 +17,7 @@
 - [Telegram-чат](https://t.me/gdgrussiachat) - https://t.me/gdgrussia
 - [VK](https://vk.com/gdgrussia) - https://vk.com/gdgrussia
 - [Сайт](https://gdg.community.dev/) - https://gdg.community.dev/
+- [Facebook](https://www.facebook.com/russia.gdg) - https://www.facebook.com/russia.gdg
 
 ## GDG Khabarovsk
 - [Telegram-чат](https://t.me/GdgHa) - https://t.me/GdgHa
@@ -104,10 +105,6 @@
 - [Meetup](https://www.meetup.com/ru-RU/GDG-Ekaterinburg) - https://www.meetup.com/ru-RU/GDG-Ekaterinburg
 - [YouTube](https://www.youtube.com/channel/UCGJrkPJOvf11AKVEgUhNsrg) - https://www.youtube.com/channel/UCGJrkPJOvf11AKVEgUhNsrg
 - [Facebook](https://facebook.com/gdg66) - https://facebook.com/gdg66
-
-## GDG Penza
-- [Telegram-чат](https://t.me/gdg_penza) - https://t.me/gdg_penza
-- [VK](https://vk.com/gdgpenza) - https://vk.com/gdgpenza
 
 ## GDG Astrakhan
 - [Сайт](http://gdgastra.ru/) - http://gdgastra.ru/

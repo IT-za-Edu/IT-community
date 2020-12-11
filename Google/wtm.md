@@ -15,6 +15,9 @@
 
 ## WTM Nizhnij Novgorod
 - [Telegram-чат](https://t.me/wtm_nn) - https://t.me/wtm_nn
+- [VK](https://vk.com/wtm_nn) - https://vk.com/wtm_nn
+- [Facebook](https://www.facebook.com/groups/wtmnizhnynovgorod) - https://www.facebook.com/groups/wtmnizhnynovgorod
+- [Instagram](https://www.instagram.com/wtm_nn/) - https://www.instagram.com/wtm_nn/
 
 ## WTM Rostov
 - [Telegram-чат](https://t.me/wtmrnd) - https://t.me/wtmrnd
