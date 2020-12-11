@@ -1,16 +1,4 @@
 # Google Developer Group (GDG)
-<!--
-## GDG
-- [Сайт]()
-- [Telegram-чат]()
-- [VK]()
-- [YouTube]()
-- [Meetup]()
-- [Instagram]()
-- [Twitter]()
-- [Facebook]()
-- [GitHub]()
--->
 
 ## GDG Russia
 - [Telegram-канал](https://t.me/gdgrussia) - https://t.me/gdgrussia
