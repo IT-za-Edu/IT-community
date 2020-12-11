@@ -34,6 +34,7 @@
 - [Брянск](city/Bryansk.md)
 - [Ярославль](city/Yaroslavl.md)
 - [Ижевск](city/Izhevsk.md)
+- [Донецк](city/Donetsk.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
