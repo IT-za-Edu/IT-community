@@ -1,5 +1,13 @@
 # Владивосток
 
+## Vladivostok Developers Community
+- [Сайт](https://vldc.org/) - https://vldc.org/
+- [Telegram-канал](https://t.me/vldcorg) - https://t.me/vldcorg
+- [VK](http://vk.com/vldcorg) - http://vk.com/vldcorg
+- [Facebook](http://fb.me/VLDCpublic) - http://fb.me/VLDCpublic
+- [YouTube](https://www.youtube.com/channel/UCrOOqo5H9eoRSNnIXrIV4WA) - https://www.youtube.com/channel/UCrOOqo5H9eoRSNnIXrIV4WA
+- [Twitter](http://twitter.com/vldcorg) - http://twitter.com/vldcorg
+
 ## Google
 - [Google Developer Group](Google/gdg.md)
 - [Developer Student Club](Google/dsc.md)
