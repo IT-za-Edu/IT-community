@@ -71,3 +71,4 @@
 - https://github.com/Hexlet/ru-local-communities
 - https://dev.by/news/400-it-communities-by-standuply
 - https://github.com/unchase/awesome-russian-it
+- https://github.com/ripienaar/free-for-dev
