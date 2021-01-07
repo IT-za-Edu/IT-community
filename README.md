@@ -38,6 +38,7 @@
 - [Краснодар](city/Krasnodar.md)
 - [Самара](city/Samara.md)
 - [Тверь](city/Tver.md)
+- [Минск](city/Minsk.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
@@ -58,6 +59,13 @@
 - [Implanted electronics](expertise/implanted-electronics.md)
 - [AI](expertise/ai.md)
 - [Instrumentation](expertise/instrumentation.md)
+- [Java](expertise/java.md)
+- [.Net](expertise/dotnet.md)
+- [PHP](expertise/php.md)
+- [HTML/CSS](expertise/html_css.md)
+- [DevOps](expertise/devops.md)
+- [Project Management](expertise/project_management.md)
+- [UI/UX](expertise/ui_ux.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
