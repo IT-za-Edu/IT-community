@@ -12,3 +12,4 @@
 - [Discord]()
 - [Slack]()
 - [GitHub]()
+- [LinkedIn]()
