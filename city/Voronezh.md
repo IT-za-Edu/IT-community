@@ -52,3 +52,7 @@
 - [Instagram](https://www.instagram.com/gdg.voronezh/) - https://www.instagram.com/gdg.voronezh/
 - [Twitter](https://twitter.com/GdgVoronezh) - https://twitter.com/GdgVoronezh
 - [Facebook](https://www.facebook.com/gdgvoronezh) - https://www.facebook.com/gdgvoronezh
+
+## Воронежский IT-кластер
+- [Сайт](http://itvoronezh.ru/) - http://itvoronezh.ru/
+- [Facebook](https://www.facebook.com/itclustervo) - https://www.facebook.com/itclustervo
