@@ -18,3 +18,11 @@
 - [Клуб 4CIO (Москва)](http://www.rucio.org/club/170.html) - http://www.rucio.org/club/170.html
 - [Клуб Профессионалов АСУ Урала](http://www.rucio.org/club/169.html) - http://www.rucio.org/club/169.html
 - [Санкт-Петербургский клуб ИТ-директоров SPb CIO Club](http://www.rucio.org/club/48.html) - http://www.rucio.org/club/48.html
+
+## Тульский IT-кластер
+- [Сайт](https://itcluster71.ru/) - https://itcluster71.ru/
+- [VK](https://vk.com/itcluster71) - https://vk.com/itcluster71
+
+## Воронежский IT-кластер
+- [Сайт](http://itvoronezh.ru/) - http://itvoronezh.ru/
+- [Facebook](https://www.facebook.com/itclustervo) - https://www.facebook.com/itclustervo
