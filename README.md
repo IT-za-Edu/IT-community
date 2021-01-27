@@ -39,6 +39,7 @@
 - [Самара](city/Samara.md)
 - [Тверь](city/Tver.md)
 - [Минск](city/Minsk.md)
+- [Тула](city/Tula.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
