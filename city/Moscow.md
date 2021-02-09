@@ -19,3 +19,6 @@
 - [GitHub](https://github.com/beerjs/moscow) - https://github.com/beerjs/moscow
 - [Meetup](http://www.meetup.com/BeerJS-Moscow/) - http://www.meetup.com/BeerJS-Moscow/
 - [Telegram](https://telegram.me/beerjs) - https://telegram.me/beerjs
+
+## Moscow Kotlin User Group
+- [VK](https://vk.com/kotlinmoscow) - https://vk.com/kotlinmoscow
