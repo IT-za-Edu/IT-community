@@ -56,3 +56,7 @@
 
 ### spb
 - [GitHub](https://github.com/beerjs/spb) - https://github.com/beerjs/spb
+
+## Самарская группа пользователей JavaScript
+- [Twitter](https://twitter.com/samara_frontend) - https://twitter.com/samara_frontend
+- [SITC](https://sitc.community/communities/samarajs/) - https://sitc.community/communities/samarajs/
