@@ -23,3 +23,7 @@
 - [YouTube](https://www.youtube.com/channel/UCEGCwbU4OOpCZ38AA0coADA) - https://www.youtube.com/channel/UCEGCwbU4OOpCZ38AA0coADA
 - [Instagram](https://www.instagram.com/gdg_rnd/) - https://www.instagram.com/gdg_rnd/
 - [GitHub](https://github.com/GDG-Rostov) - https://github.com/GDG-Rostov
+
+## Kotlin Rostov User Group
+- [Telegram-чат](https://t.me/rndkotlin) - https://t.me/rndkotlin
+- [VK](https://vk.com/rndkotlin) - https://vk.com/rndkotlin
