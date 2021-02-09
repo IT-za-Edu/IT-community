@@ -79,7 +79,7 @@
 - [BeerJS](BeerJS/beerjs.md)
 
 ## Kotlin User Group
-- [KUG](Kotlin User Group/kug.md)
+- [KUG](Kotlin%20User%20Group/kug.md)
 
 Похожие списки:
 - https://github.com/Hexlet/ru-local-communities
