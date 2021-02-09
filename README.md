@@ -40,6 +40,8 @@
 - [Тверь](city/Tver.md)
 - [Минск](city/Minsk.md)
 - [Тула](city/Tula.md)
+- [Таганрог](Taganrog.md)
+- [Ульяновск](city/Ulyanovsk.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
@@ -75,6 +77,9 @@
 
 ## BeerJS
 - [BeerJS](BeerJS/beerjs.md)
+
+## Kotlin User Group
+- [KUG](Kotlin User Group/kug.md)
 
 Похожие списки:
 - https://github.com/Hexlet/ru-local-communities
