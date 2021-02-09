@@ -61,3 +61,9 @@
 - [Telegram-чат](https://t.me/mjcby) - https://t.me/mjcby
 - [YouTube](https://www.youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg) - https://www.youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg
 - [Instagram](https://www.instagram.com/mjc.talks/) - https://www.instagram.com/mjc.talks/
+
+## Belarus Kotlin User Group
+- [Сайт](https://bkug.by/) - https://bkug.by/
+- [YouTube](https://www.youtube.com/c/BelarusKUG) - https://www.youtube.com/c/BelarusKUG
+- [Twitter](https://twitter.com/BelarusKUG) - https://twitter.com/BelarusKUG
+- [GitHub](https://github.com/BelarusKUG) - https://github.com/BelarusKUG
