@@ -81,6 +81,9 @@
 ## Kotlin User Group
 - [KUG](Kotlin%20User%20Group/kug.md)
 
+## DOTNET.RU
+- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+
 Похожие списки:
 - https://github.com/Hexlet/ru-local-communities
 - https://dev.by/news/400-it-communities-by-standuply
