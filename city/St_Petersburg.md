@@ -17,7 +17,10 @@
 ### WTM St. Petersburg
 - [Telegram-чат](https://t.me/wtmspb) - https://t.me/wtmspb
 
-## BeerJS spb
+## Beer JS
+- [Beer JS](BeerJS/beerjs.md)
+
+### BeerJS spb
 - [GitHub](https://github.com/beerjs/spb) - https://github.com/beerjs/spb
 
 ## St. Petersburg Kotlin User Group

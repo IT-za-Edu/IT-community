@@ -15,7 +15,10 @@
 - [Facebook](https://www.facebook.com/gdgmsk.events/) - https://www.facebook.com/gdgmsk.events/
 - [YouTube](https://www.youtube.com/channel/UCfmGrNtGWRLJcV-bcPfDBxg) - https://www.youtube.com/channel/UCfmGrNtGWRLJcV-bcPfDBxg
 
-## BeerJS Moscow
+## Beer JS
+- [Beer JS](BeerJS/beerjs.md)
+
+### BeerJS Moscow
 - [GitHub](https://github.com/beerjs/moscow) - https://github.com/beerjs/moscow
 - [Meetup](http://www.meetup.com/BeerJS-Moscow/) - http://www.meetup.com/BeerJS-Moscow/
 - [Telegram](https://telegram.me/beerjs) - https://telegram.me/beerjs

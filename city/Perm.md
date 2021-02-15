@@ -39,5 +39,8 @@
 ### GDG Perm
 - [VK](https://vk.com/gdgperm) - https://vk.com/gdgperm
 
-## BeerJS.Perm
+## Beer JS
+- [Beer JS](BeerJS/beerjs.md)
+
+### BeerJS.Perm
 - [Telegram](https://t.me/permbeerjs)

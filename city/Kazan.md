@@ -1,6 +1,9 @@
 # Казань
 
-## BeerJS Kazan
+## Beer JS
+- [Beer JS](BeerJS/beerjs.md)
+
+### BeerJS Kazan
 - [GitHub](https://github.com/beerjs/kazan) - https://github.com/beerjs/kazan
 - [Telegram](https://t.me/BeerJsKazan) - https://t.me/BeerJsKazan
 - [Meetup](ttps://www.meetup.com/BeerJs-Kazan/) - https://www.meetup.com/BeerJs-Kazan/

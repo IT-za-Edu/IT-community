@@ -33,7 +33,10 @@
 - [Facebook](https://www.facebook.com/gdgnizhny) - https://www.facebook.com/gdgnizhny
 - [YouTube](https://www.youtube.com/channel/UC9ZDzE6h-K84Eg7-K1y1TCA) - https://www.youtube.com/channel/UC9ZDzE6h-K84Eg7-K1y1TCA
 
-## BeerJS Nizhniy Novgorod
+## Beer JS
+- [Beer JS](BeerJS/beerjs.md)
+
+### BeerJS Nizhniy Novgorod
 - [GitHub](https://github.com/beerjs/nizhniy-novgorod) - https://github.com/beerjs/nizhniy-novgorod
 - [Telegram](https://t.me/beerjsnn) - https://t.me/beerjsnn
 

@@ -13,7 +13,7 @@
 - [Developer Student Club](Google/dsc.md)
 - [Women Techmakers](Google/wtm.md)
 
-## DSC Vladivostok
+### DSC Vladivostok
 - [VK](https://vk.com/vldsc) - https://vk.com/vldsc
 
 ### GDG Vladivostok
@@ -22,6 +22,9 @@
 - [YouTube](https://www.youtube.com/channel/UCuHtWBcO-TWUVDWUMQVZFFw) - https://www.youtube.com/channel/UCuHtWBcO-TWUVDWUMQVZFFw
 - [Twitter](https://twitter.com/vldcorg) - https://twitter.com/vldcorg
 
-## BeerJS Vladivostok
+## Beer JS
+- [Beer JS](BeerJS/beerjs.md)
+
+### BeerJS Vladivostok
 - [GitHub](https://github.com/beerjs/vladivostok) - https://github.com/beerjs/vladivostok
 - [Сайт](http://beerjs-vl.ru/) - http://beerjs-vl.ru/

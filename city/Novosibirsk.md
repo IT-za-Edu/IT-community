@@ -15,7 +15,10 @@
 - [Twitter](https://twitter.com/GDGNsk) - https://twitter.com/GDGNsk
 - [Facebook](https://www.facebook.com/groups/523052334554411/) - https://www.facebook.com/groups/523052334554411/
 
-## BeerJS Novosibirsk
+## Beer JS
+- [Beer JS](BeerJS/beerjs.md)
+
+### BeerJS Novosibirsk
 - [GitHub](https://github.com/beerjs/novosibirsk) - https://github.com/beerjs/novosibirsk
 - [Telegram](https://t.me/joinchat/AAAAAA1EkNyjpNKcKnhZbg) - https://t.me/joinchat/AAAAAA1EkNyjpNKcKnhZbg
 - [Meetup](http://meetu.ps/c/3mqp3/BvRy5/f) - http://meetu.ps/c/3mqp3/BvRy5/f

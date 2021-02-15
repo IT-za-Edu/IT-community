@@ -1,6 +1,9 @@
 # Екатеринбург
 
-## BeerJS Ekaterinburg
+## Beer JS
+- [Beer JS](BeerJS/beerjs.md)
+
+### BeerJS Ekaterinburg
 - [GitHub](https://github.com/beerjs/ekb) - https://github.com/beerjs/ekb
 - [Telegram](https://t.me/beerjs_ekb) - https://t.me/beerjs_ekb
 

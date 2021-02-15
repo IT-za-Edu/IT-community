@@ -25,7 +25,10 @@
 - [Instagram](https://www.instagram.com/wtm_khv/) - https://www.instagram.com/wtm_khv/
 - [DevDV](https://devdv.ru/projects/wtm) - https://devdv.ru/projects/wtm
 
-## BeerJS Хабаровск
+## Beer JS
+- [Beer JS](BeerJS/beerjs.md)
+
+### BeerJS Хабаровск
 - [GitHub](https://github.com/beerjs/khabarovsk) - https://github.com/beerjs/khabarovsk
 
 ## Khabarovsk Kotlin User Group
