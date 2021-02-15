@@ -23,7 +23,7 @@
 - [XMPP messager](it-for-free@itforfree.net) - it-for-free@itforfree.net
 
 ## BeerJS
-- [BeerJS](BeerJS/beerjs.md)
+- [BeerJS](../BeerJS/beerjs.md)
 
 ### Beer JS Voronezh
 - [GitHub](https://github.com/beerjs/voronezh) - https://github.com/beerjs/voronezh
