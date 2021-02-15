@@ -13,9 +13,6 @@
 ## программисты Перми
 - [VK](https://vk.com/club46219042)
 
-## BeerJS.Perm
-- [Telegram-чат](https://t.me/permbeerjs)
-
 ## Designers of Perm
 - [Telegram-чат](https://t.me/designersofperm)
 

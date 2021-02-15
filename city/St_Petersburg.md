@@ -23,5 +23,8 @@
 ### BeerJS spb
 - [GitHub](https://github.com/beerjs/spb) - https://github.com/beerjs/spb
 
-## St. Petersburg Kotlin User Group
+## Kotlin User Group
+- [KUG](Kotlin%20User%20Group/kug.md)
+
+### St. Petersburg Kotlin User Group
 - [Meetup](https://www.meetup.com/ru-RU/St-Petersburg-Kotlin-User-Group/) - https://www.meetup.com/ru-RU/St-Petersburg-Kotlin-User-Group/

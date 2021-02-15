@@ -31,7 +31,10 @@
 ### BeerJS Хабаровск
 - [GitHub](https://github.com/beerjs/khabarovsk) - https://github.com/beerjs/khabarovsk
 
-## Khabarovsk Kotlin User Group
+## Kotlin User Group
+- [KUG](Kotlin%20User%20Group/kug.md)
+
+### Khabarovsk Kotlin User Group
 - [DevDV](https://devdv.ru/projects/kug) - https://devdv.ru/projects/kug
 
 ## Open Data Science Khabarovsk

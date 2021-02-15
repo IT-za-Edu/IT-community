@@ -12,7 +12,10 @@
 - [Telegram-чат](https://t.me/sitc_mobile) - https://t.me/sitc_mobile
 - [SITC](https://sitc.community/communities/sitc-mobile/) - https://sitc.community/communities/sitc-mobile/
 
-## Kotlin Samara User Group
+## Kotlin User Group
+- [KUG](Kotlin%20User%20Group/kug.md)
+
+### Kotlin Samara User Group
 - [SITC](https://sitc.community/communities/kug/) - https://sitc.community/communities/kug/
 - [Telegram-чат](https://t.me/samarakug) - https://t.me/samarakug
 

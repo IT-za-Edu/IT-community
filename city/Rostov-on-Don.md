@@ -24,6 +24,9 @@
 - [Instagram](https://www.instagram.com/gdg_rnd/) - https://www.instagram.com/gdg_rnd/
 - [GitHub](https://github.com/GDG-Rostov) - https://github.com/GDG-Rostov
 
-## Kotlin Rostov User Group
+## Kotlin User Group
+- [KUG](Kotlin%20User%20Group/kug.md)
+
+### Kotlin Rostov User Group
 - [Telegram-чат](https://t.me/rndkotlin) - https://t.me/rndkotlin
 - [VK](https://vk.com/rndkotlin) - https://vk.com/rndkotlin

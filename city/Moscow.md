@@ -23,5 +23,8 @@
 - [Meetup](http://www.meetup.com/BeerJS-Moscow/) - http://www.meetup.com/BeerJS-Moscow/
 - [Telegram](https://telegram.me/beerjs) - https://telegram.me/beerjs
 
-## Moscow Kotlin User Group
+## Kotlin User Group
+- [KUG](Kotlin%20User%20Group/kug.md)
+
+### Moscow Kotlin User Group
 - [VK](https://vk.com/kotlinmoscow) - https://vk.com/kotlinmoscow

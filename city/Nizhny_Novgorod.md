@@ -40,7 +40,10 @@
 - [GitHub](https://github.com/beerjs/nizhniy-novgorod) - https://github.com/beerjs/nizhniy-novgorod
 - [Telegram](https://t.me/beerjsnn) - https://t.me/beerjsnn
 
-## Kotlin Nizhny Novgorod User Group
+## Kotlin User Group
+- [KUG](Kotlin%20User%20Group/kug.md)
+
+### Kotlin Nizhny Novgorod User Group
 - [Telegram-чат](https://t.me/kotlin_nn) - https://t.me/kotlin_nn
 - [VK](https://vk.com/kotlin_nn) - https://vk.com/kotlin_nn
 - [Twitter](https://twitter.com/kotlin_nn) - https://twitter.com/kotlin_nn
