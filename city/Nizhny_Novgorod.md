@@ -48,3 +48,9 @@
 - [VK](https://vk.com/kotlin_nn) - https://vk.com/kotlin_nn
 - [Twitter](https://twitter.com/kotlin_nn) - https://twitter.com/kotlin_nn
 - [Meetup](https://www.meetup.com/ru-RU/kotlin_nn/) - https://www.meetup.com/ru-RU/kotlin_nn/
+
+## DOTNET.RU
+- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+
+## DOTNET.RU НИЖНИЙ НОВГОРОД
+- [VK](https://vk.com/NnvDotNet) - https://vk.com/NnvDotNet

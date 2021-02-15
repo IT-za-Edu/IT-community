@@ -18,3 +18,11 @@
 - [Meetup](https://www.meetup.com/ru-RU/GDG-Kazan/) - https://www.meetup.com/ru-RU/GDG-Kazan/
 - [Instagram](https://www.instagram.com/gdgkazan/) - https://www.instagram.com/gdgkazan/
 - [Twitter](https://twitter.com/GDGKazan) - https://twitter.com/GDGKazan
+
+## DOTNET.RU
+- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+
+## DOTNET.RU КАЗАНЬ
+- [Telegram-чат](https://t.me/KznDotNetChat) - https://t.me/KznDotNetChat
+- [Telegram-канал](https://t.me/KznDotNet) - https://t.me/KznDotNet
+- [VK](https://vk.com/KznDotNet) - https://vk.com/KznDotNet

@@ -38,3 +38,9 @@
 ## Open Data Science
 - [SITC](https://sitc.community/communities/ods/) - https://sitc.community/communities/ods/
 - [Slack](http://opendatascience.slack.com/) - http://opendatascience.slack.com/
+
+## DOTNET.RU
+- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+
+## DOTNET.RU САМАРА
+- [VK](https://vk.com/SamDotNet) - https://vk.com/SamDotNet

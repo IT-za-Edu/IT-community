@@ -28,3 +28,11 @@
 
 ### Moscow Kotlin User Group
 - [VK](https://vk.com/kotlinmoscow) - https://vk.com/kotlinmoscow
+
+## DOTNET.RU
+- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+
+## DOTNET.RU МОСКВА
+- [Telegram-чат](https://t.me/MskDotNet) - https://t.me/MskDotNet
+- [VK](https://vk.com/MskDotNet) - https://vk.com/MskDotNet
+- [Twitter](https://twitter.com/MskDotNet) - https://twitter.com/MskDotNet

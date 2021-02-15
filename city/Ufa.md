@@ -16,3 +16,9 @@
 - [Twitter](https://twitter.com/ufacoder) - https://twitter.com/ufacoder
 - [Facebook](https://www.facebook.com/gdgufa) - https://www.facebook.com/gdgufa
 - [Facebook](https://www.facebook.com/ufacoder) - https://www.facebook.com/ufacoder
+
+## DOTNET.RU
+- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+
+## DOTNET.RU УФА
+- [VK](https://vk.com/UfaDotNet) - https://vk.com/UfaDotNet

@@ -93,3 +93,9 @@
 - [VK](https://vk.com/ma_srt) - https://vk.com/ma_srt
 - [Facebook](https://www.facebook.com/MarketingAnalyticsSaratov) - https://www.facebook.com/MarketingAnalyticsSaratov
 - [SaratovIT](https://www.saratovit.ru/community/marketing-amp-analytics-saratov/) - https://www.saratovit.ru/community/marketing-amp-analytics-saratov/
+
+## DOTNET.RU
+- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+
+## DOTNET.RU САРАТОВ
+- [VK](https://vk.com/SarDotNet) - https://vk.com/SarDotNet

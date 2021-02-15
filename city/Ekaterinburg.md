@@ -21,3 +21,11 @@
 ### DSC UrFU
 - [VK](https://vk.com/dsc_urfu) - https://vk.com/dsc_urfu
 - [Telegram](https://t.me/dsc_urfu) - https://t.me/dsc_urfu
+
+## DOTNET.RU
+- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+
+## DOTNET.RU ЕКАТЕРИНБУРГ
+- [Telegram-чат](https://t.me/EkbDotNetCommunity) - https://t.me/EkbDotNetCommunity
+- [Telegram-канал](https://t.me/EkbDotNet) - https://t.me/EkbDotNet
+- [VK](https://vk.com/EkbDotNet) - https://vk.com/EkbDotNet

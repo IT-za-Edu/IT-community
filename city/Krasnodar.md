@@ -9,3 +9,11 @@
 - [Twitter](https://twitter.com/krddevdays) - https://twitter.com/krddevdays
 - [Facebook](https://facebook.com/krddevdays) - https://facebook.com/krddevdays
 - [GitHub](https://github.com/krddevdays) - https://github.com/krddevdays
+
+## DOTNET.RU
+- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+
+## DOTNET.RU КРАСНОДАР
+- [Telegram-чат](https://t.me/KrdDotNetCommunity) - https://t.me/KrdDotNetCommunity
+- [VK](https://vk.com/KrdDotNet) - https://vk.com/KrdDotNet
+- [Meetup](https://www.meetup.com/KrdDotNet) - https://www.meetup.com/KrdDotNet
