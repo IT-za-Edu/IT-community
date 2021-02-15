@@ -1,7 +1,7 @@
 # Казань
 
-## Beer JS
-- [Beer JS](BeerJS/beerjs.md)
+## BeerJS
+- [BeerJS](../BeerJS/beerjs.md)
 
 ### BeerJS Kazan
 - [GitHub](https://github.com/beerjs/kazan) - https://github.com/beerjs/kazan
@@ -9,9 +9,9 @@
 - [Meetup](ttps://www.meetup.com/BeerJs-Kazan/) - https://www.meetup.com/BeerJs-Kazan/
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### GDG Kazan
 - [VK](https://vk.com/gdgkazan) - https://vk.com/gdgkazan
@@ -20,7 +20,7 @@
 - [Twitter](https://twitter.com/GDGKazan) - https://twitter.com/GDGKazan
 
 ## DOTNET.RU
-- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+- [DOTNET.RU](../DOTNET.RU/dotnet_ru.md)
 
 ## DOTNET.RU КАЗАНЬ
 - [Telegram-чат](https://t.me/KznDotNetChat) - https://t.me/KznDotNetChat

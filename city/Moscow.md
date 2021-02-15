@@ -1,9 +1,9 @@
 # Москва
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### WTM Moscow
 - [Telegram-чат](https://t.me/wtm_moscow) - https://t.me/wtm_moscow
@@ -15,8 +15,8 @@
 - [Facebook](https://www.facebook.com/gdgmsk.events/) - https://www.facebook.com/gdgmsk.events/
 - [YouTube](https://www.youtube.com/channel/UCfmGrNtGWRLJcV-bcPfDBxg) - https://www.youtube.com/channel/UCfmGrNtGWRLJcV-bcPfDBxg
 
-## Beer JS
-- [Beer JS](BeerJS/beerjs.md)
+## BeerJS
+- [BeerJS](../BeerJS/beerjs.md)
 
 ### BeerJS Moscow
 - [GitHub](https://github.com/beerjs/moscow) - https://github.com/beerjs/moscow
@@ -24,13 +24,13 @@
 - [Telegram](https://telegram.me/beerjs) - https://telegram.me/beerjs
 
 ## Kotlin User Group
-- [KUG](Kotlin%20User%20Group/kug.md)
+- [KUG](../Kotlin%20User%20Group/kug.md)
 
 ### Moscow Kotlin User Group
 - [VK](https://vk.com/kotlinmoscow) - https://vk.com/kotlinmoscow
 
 ## DOTNET.RU
-- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+- [DOTNET.RU](../DOTNET.RU/dotnet_ru.md)
 
 ## DOTNET.RU МОСКВА
 - [Telegram-чат](https://t.me/MskDotNet) - https://t.me/MskDotNet

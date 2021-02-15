@@ -1,7 +1,7 @@
 # Брянск
 
-## Beer JS
-- [Beer JS](BeerJS/beerjs.md)
+## BeerJS
+- [BeerJS](../BeerJS/beerjs.md)
 
 ### BeerJS Брянск
 - [GitHub](https://github.com/beerjs/bryansk) - https://github.com/beerjs/bryansk
@@ -9,9 +9,9 @@
 - [VK](https://vk.com/beerjs_bryansk) - https://vk.com/beerjs_bryansk
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### GDG Bryansk
 - [Telegram-чат](https://t.me/gdg_bryansk) - https://t.me/gdg_bryansk

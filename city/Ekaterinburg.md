@@ -1,16 +1,16 @@
 # Екатеринбург
 
-## Beer JS
-- [Beer JS](BeerJS/beerjs.md)
+## BeerJS
+- [BeerJS](../BeerJS/beerjs.md)
 
 ### BeerJS Ekaterinburg
 - [GitHub](https://github.com/beerjs/ekb) - https://github.com/beerjs/ekb
 - [Telegram](https://t.me/beerjs_ekb) - https://t.me/beerjs_ekb
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### GDG Ekaterinburg
 - [VK](https://vk.com/gdgekb) - https://vk.com/gdgekb
@@ -23,7 +23,7 @@
 - [Telegram](https://t.me/dsc_urfu) - https://t.me/dsc_urfu
 
 ## DOTNET.RU
-- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+- [DOTNET.RU](../DOTNET.RU/dotnet_ru.md)
 
 ## DOTNET.RU ЕКАТЕРИНБУРГ
 - [Telegram-чат](https://t.me/EkbDotNetCommunity) - https://t.me/EkbDotNetCommunity

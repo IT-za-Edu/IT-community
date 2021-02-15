@@ -9,9 +9,9 @@
 - [Twitter](http://twitter.com/vldcorg) - http://twitter.com/vldcorg
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### DSC Vladivostok
 - [VK](https://vk.com/vldsc) - https://vk.com/vldsc
@@ -22,8 +22,8 @@
 - [YouTube](https://www.youtube.com/channel/UCuHtWBcO-TWUVDWUMQVZFFw) - https://www.youtube.com/channel/UCuHtWBcO-TWUVDWUMQVZFFw
 - [Twitter](https://twitter.com/vldcorg) - https://twitter.com/vldcorg
 
-## Beer JS
-- [Beer JS](BeerJS/beerjs.md)
+## BeerJS
+- [BeerJS](../BeerJS/beerjs.md)
 
 ### BeerJS Vladivostok
 - [GitHub](https://github.com/beerjs/vladivostok) - https://github.com/beerjs/vladivostok

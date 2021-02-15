@@ -1,7 +1,7 @@
 # Таганрог
 
 ## Kotlin User Group
-- [KUG](Kotlin%20User%20Group/kug.md)
+- [KUG](../Kotlin%20User%20Group/kug.md)
 
 ### Taganrog Kotlin User Group
 - [VK](https://vk.com/kotlintgn) - https://vk.com/kotlintgn

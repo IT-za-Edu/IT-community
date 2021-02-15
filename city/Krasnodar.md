@@ -11,7 +11,7 @@
 - [GitHub](https://github.com/krddevdays) - https://github.com/krddevdays
 
 ## DOTNET.RU
-- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+- [DOTNET.RU](../DOTNET.RU/dotnet_ru.md)
 
 ## DOTNET.RU КРАСНОДАР
 - [Telegram-чат](https://t.me/KrdDotNetCommunity) - https://t.me/KrdDotNetCommunity

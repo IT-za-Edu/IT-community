@@ -1,9 +1,9 @@
 # Новосибирск
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 ### WTM Novosibirsk
 - [Telegram-чат](https://t.me/WTMNsk) - https://t.me/WTMNsk
 
@@ -15,8 +15,8 @@
 - [Twitter](https://twitter.com/GDGNsk) - https://twitter.com/GDGNsk
 - [Facebook](https://www.facebook.com/groups/523052334554411/) - https://www.facebook.com/groups/523052334554411/
 
-## Beer JS
-- [Beer JS](BeerJS/beerjs.md)
+## BeerJS
+- [BeerJS](../BeerJS/beerjs.md)
 
 ### BeerJS Novosibirsk
 - [GitHub](https://github.com/beerjs/novosibirsk) - https://github.com/beerjs/novosibirsk
@@ -24,7 +24,7 @@
 - [Meetup](http://meetu.ps/c/3mqp3/BvRy5/f) - http://meetu.ps/c/3mqp3/BvRy5/f
 
 ## DOTNET.RU
-- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+- [DOTNET.RU](../DOTNET.RU/dotnet_ru.md)
 
 ## DOTNET.RU НОВОСИБИРСК
 - [VK](https://vk.com/NskDotNet) - https://vk.com/NskDotNet

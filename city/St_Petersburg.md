@@ -1,9 +1,9 @@
 # Санкт-Петербург
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### GDG St. Petersburg
 - [VK](https://vk.com/gdgspbru) - https://vk.com/gdgspbru
@@ -17,20 +17,20 @@
 ### WTM St. Petersburg
 - [Telegram-чат](https://t.me/wtmspb) - https://t.me/wtmspb
 
-## Beer JS
-- [Beer JS](BeerJS/beerjs.md)
+## BeerJS
+- [BeerJS](../BeerJS/beerjs.md)
 
 ### BeerJS spb
 - [GitHub](https://github.com/beerjs/spb) - https://github.com/beerjs/spb
 
 ## Kotlin User Group
-- [KUG](Kotlin%20User%20Group/kug.md)
+- [KUG](../Kotlin%20User%20Group/kug.md)
 
 ### St. Petersburg Kotlin User Group
 - [Meetup](https://www.meetup.com/ru-RU/St-Petersburg-Kotlin-User-Group/) - https://www.meetup.com/ru-RU/St-Petersburg-Kotlin-User-Group/
 
 ## DOTNET.RU
-- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+- [DOTNET.RU](../DOTNET.RU/dotnet_ru.md)
 
 ## DOTNET.RU САНКТ-ПЕТЕРБУРГ
 - [Telegram-чат](https://t.me/SpbDotNetChat) - https://t.me/SpbDotNetChat

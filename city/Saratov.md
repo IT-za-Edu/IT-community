@@ -1,9 +1,9 @@
 # Саратов
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### DSC Saratov
 - [VK](https://vk.com/dsc_ssu) - https://vk.com/dsc_ssu
@@ -95,7 +95,7 @@
 - [SaratovIT](https://www.saratovit.ru/community/marketing-amp-analytics-saratov/) - https://www.saratovit.ru/community/marketing-amp-analytics-saratov/
 
 ## DOTNET.RU
-- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+- [DOTNET.RU](../DOTNET.RU/dotnet_ru.md)
 
 ## DOTNET.RU САРАТОВ
 - [VK](https://vk.com/SarDotNet) - https://vk.com/SarDotNet

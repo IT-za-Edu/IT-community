@@ -1,7 +1,7 @@
 # Челябинск
 
-## Beer JS
-- [Beer JS](BeerJS/beerjs.md)
+## BeerJS
+- [BeerJS](../BeerJS/beerjs.md)
 
 ### BeerJS Челябинск
 - [GitHub](https://github.com/beerjs/chelyabinsk) - https://github.com/beerjs/chelyabinsk

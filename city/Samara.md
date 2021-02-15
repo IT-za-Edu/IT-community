@@ -13,7 +13,7 @@
 - [SITC](https://sitc.community/communities/sitc-mobile/) - https://sitc.community/communities/sitc-mobile/
 
 ## Kotlin User Group
-- [KUG](Kotlin%20User%20Group/kug.md)
+- [KUG](../Kotlin%20User%20Group/kug.md)
 
 ### Kotlin Samara User Group
 - [SITC](https://sitc.community/communities/kug/) - https://sitc.community/communities/kug/
@@ -40,7 +40,7 @@
 - [Slack](http://opendatascience.slack.com/) - http://opendatascience.slack.com/
 
 ## DOTNET.RU
-- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+- [DOTNET.RU](../DOTNET.RU/dotnet_ru.md)
 
 ## DOTNET.RU САМАРА
 - [VK](https://vk.com/SamDotNet) - https://vk.com/SamDotNet

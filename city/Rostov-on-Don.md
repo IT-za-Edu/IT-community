@@ -9,9 +9,9 @@
 - [GitHub](https://github.com/orgs/IT61) - https://github.com/orgs/IT61
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### WTM Rostov
 - [Telegram-чат](https://t.me/wtmrnd) - https://t.me/wtmrnd
@@ -25,7 +25,7 @@
 - [GitHub](https://github.com/GDG-Rostov) - https://github.com/GDG-Rostov
 
 ## Kotlin User Group
-- [KUG](Kotlin%20User%20Group/kug.md)
+- [KUG](../Kotlin%20User%20Group/kug.md)
 
 ### Kotlin Rostov User Group
 - [Telegram-чат](https://t.me/rndkotlin) - https://t.me/rndkotlin

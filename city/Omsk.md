@@ -8,9 +8,9 @@
 - [VK](https://vk.com/omskkotlin) - https://vk.com/omskkotlin
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### GDG Omsk
 - [Блог](http://blog.gdgomsk.org/) - http://blog.gdgomsk.org/
@@ -18,7 +18,7 @@
 - [YouTube](https://www.youtube.com/user/GDGOmsk) - https://www.youtube.com/user/GDGOmsk
 
 ## DOTNET.RU
-- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+- [DOTNET.RU](../DOTNET.RU/dotnet_ru.md)
 
 ## DOTNET.RU ОМСК
 - [Telegram-чат](https://t.me/OmsDotNetChat) - https://t.me/OmsDotNetChat

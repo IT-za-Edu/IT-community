@@ -1,9 +1,9 @@
 # Уфа
 
 ## Goggle
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### DSC Ufa
 - [VK](https://vk.com/dsc_ufa) - https://vk.com/dsc_ufa
@@ -18,7 +18,7 @@
 - [Facebook](https://www.facebook.com/ufacoder) - https://www.facebook.com/ufacoder
 
 ## DOTNET.RU
-- [DOTNET.RU](DOTNET.RU/dotnet_ru.md)
+- [DOTNET.RU](../DOTNET.RU/dotnet_ru.md)
 
 ## DOTNET.RU УФА
 - [VK](https://vk.com/UfaDotNet) - https://vk.com/UfaDotNet

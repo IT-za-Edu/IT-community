@@ -63,7 +63,7 @@
 - [Instagram](https://www.instagram.com/mjc.talks/) - https://www.instagram.com/mjc.talks/
 
 ## Kotlin User Group
-- [KUG](Kotlin%20User%20Group/kug.md)
+- [KUG](../Kotlin%20User%20Group/kug.md)
 
 ### Belarus Kotlin User Group
 - [Сайт](https://bkug.by/) - https://bkug.by/

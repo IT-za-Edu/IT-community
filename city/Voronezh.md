@@ -41,9 +41,9 @@
 - [Meetup](https://www.meetup.com/ru-RU/Golang-Voronezh/) - https://www.meetup.com/ru-RU/Golang-Voronezh/
 
 ## Google
-- [Google Developer Group](Google/gdg.md)
-- [Developer Student Club](Google/dsc.md)
-- [Women Techmakers](Google/wtm.md)
+- [Google Developer Group](../Google/gdg.md)
+- [Developer Student Club](../Google/dsc.md)
+- [Women Techmakers](../Google/wtm.md)
 
 ### DSC Voronezh
 - [Telegram-чат](https://t.me/dscvoronezh) - https://t.me/dscvoronezh
