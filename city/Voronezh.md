@@ -22,8 +22,8 @@
 - [GitHub](https://github.com/it-for-free) - https://github.com/it-for-free
 - [XMPP messager](it-for-free@itforfree.net) - it-for-free@itforfree.net
 
-## Beer JS
-- [Beer JS](BeerJS/beerjs.md)
+## BeerJS
+- [BeerJS](BeerJS/beerjs.md)
 
 ### Beer JS Voronezh
 - [GitHub](https://github.com/beerjs/voronezh) - https://github.com/beerjs/voronezh
