@@ -59,3 +59,9 @@
 ## Воронежский IT-кластер
 - [Сайт](http://itvoronezh.ru/) - http://itvoronezh.ru/
 - [Facebook](https://www.facebook.com/itclustervo) - https://www.facebook.com/itclustervo
+
+## PM Club VRN
+- [Telegram-чат](https://t.me/joinchat/ByN_8AsIVuj18qkqsHLqTQ) - https://t.me/joinchat/ByN_8AsIVuj18qkqsHLqTQ
+- [VK](https://vk.com/pmclubvrn) - https://vk.com/pmclubvrn
+- [Facebook](https://www.facebook.com/PMClubVRN/) - https://www.facebook.com/PMClubVRN/
+- [YouTube](https://www.youtube.com/channel/UCXR6NS3fJORl19anToDzHpQ) - https://www.youtube.com/channel/UCXR6NS3fJORl19anToDzHpQ
