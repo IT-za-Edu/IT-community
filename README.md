@@ -43,6 +43,7 @@
 - [Тула](city/Tula.md)
 - [Таганрог](Taganrog.md)
 - [Ульяновск](city/Ulyanovsk.md)
+- [Иркутск](city/Irkutsk.md)
 
 ## Сообщества по направлениям
 - [SAP](expertise/sap.md)
