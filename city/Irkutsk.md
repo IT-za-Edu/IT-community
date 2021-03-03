@@ -6,4 +6,5 @@
  - [Telegram-чат](https://t.me/lobbyit) - https://t.me/lobbyit
 ## IT-мероприятия Иркутска
  - [Telegram-чат](https://t.me/BaikalDevClub) - https://t.me/BaikalDevClub
- - [Телеграм-чат разработчиков игр](https://t.me/gamedevirk) https://t.me/gamedevirk
+## Разработчики игр
+ - [Telegram-чат](https://t.me/gamedevirk) - https://t.me/gamedevirk
