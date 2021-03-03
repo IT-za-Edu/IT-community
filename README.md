@@ -91,3 +91,4 @@
 - https://dev.by/news/400-it-communities-by-standuply
 - https://github.com/unchase/awesome-russian-it
 - https://github.com/ripienaar/free-for-dev
+- https://github.com/goq/telegram-list
