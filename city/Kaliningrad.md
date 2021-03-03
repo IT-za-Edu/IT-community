@@ -51,3 +51,6 @@
 - [VK](https://vk.com/gdg_kgd) - https://vk.com/gdg_kgd
 - [YouTube](https://www.youtube.com/channel/UCXEgJkiO3F3HonG3QBtEz3Q) - https://www.youtube.com/channel/UCXEgJkiO3F3HonG3QBtEz3Q
 - [Facebook](https://www.facebook.com/gdgkgd/) - https://www.facebook.com/gdgkgd/
+
+## Design KLD
+- [Telegram-чат](https://t.me/designkld) - https://t.me/designkld
