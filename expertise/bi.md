@@ -6,3 +6,5 @@
 ## Power BI Group RU
 - [Telegram](https://t.me/PBI_Rus) - https://t.me/PBI_Rus
 
+## Чат Tableau
+- [Telegram](https://t.me/tableau_chat) - https://t.me/tableau_chat
