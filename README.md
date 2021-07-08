@@ -71,6 +71,7 @@
 - [DevOps](expertise/devops.md)
 - [Project Management](expertise/project_management.md)
 - [UI/UX](expertise/ui_ux.md)
+- [Open Source](expertise/open_source.md)
 
 ## Сообщества от Google
 - [Google Developer Group](Google/gdg.md)
