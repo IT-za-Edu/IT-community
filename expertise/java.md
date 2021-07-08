@@ -14,3 +14,7 @@
 ## Самарская группа пользователей Java
 - [SITC](https://sitc.community/communities/jug/) - https://sitc.community/communities/jug/
 - [Telegram-чат](https://t.me/JUGSamara) - https://t.me/JUGSamara
+
+## holywar4j
+Ламповое сообщество молодых Java-разработчиков. Устраиваем еженедельные встречи в онлайне и холиварим на выбранную тему.
+- [Сайт](https://boiarshinov.github.io/holywar4j/) - https://boiarshinov.github.io/holywar4j/
