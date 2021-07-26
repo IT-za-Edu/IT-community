@@ -23,6 +23,11 @@
 - [Telegram-чат](https://t.me/elixir_ruby_rnd) - https://t.me/elixir_ruby_rnd
 - [VK](https://vk.com/elixir_ruby_rostov) - https://vk.com/elixir_ruby_rostov
 
+## RND.JS
+- [VK](https://vk.com/rndjs) - https://vk.com/rndjs
+- [YouTube](https://www.youtube.com/channel/UC23mRXB-Xuae-a_x74NNe9w) - https://www.youtube.com/channel/UC23mRXB-Xuae-a_x74NNe9w
+- [Twitter](https://twitter.com/RNDJSmeetup) - https://twitter.com/RNDJSmeetup
+
 ### WTM Rostov
 - [Telegram-чат](https://t.me/wtmrnd) - https://t.me/wtmrnd
 
