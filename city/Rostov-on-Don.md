@@ -3,7 +3,8 @@
 ## it61
 - [Сайт](https://it61.info)
 - [Telegram-чат](https://t.me/it_61) - https://t.me/it_61
-- [Telegram-канал](https://t.me/it61_events) - https://t.me/it61_events
+- [Telegram-канал с событиями](https://t.me/it61_events) - https://t.me/it61_events
+- [Telegram-канал с вакансиями](https://t.me/it_61job) - https://t.me/it_61job
 - [VK](https://vk.com/it_61) - https://vk.com/it_61
 - [YouTube](https://www.youtube.com/channel/UC63xTveSry1vvpWbM877K9Q) - https://www.youtube.com/channel/UC63xTveSry1vvpWbM877K9Q
 - [Instagram](https://www.instagram.com/rostovcommunity) - https://www.instagram.com/rostovcommunity
@@ -22,6 +23,11 @@
 ## Elixir & Ruby Rostov
 - [Telegram-чат](https://t.me/elixir_ruby_rnd) - https://t.me/elixir_ruby_rnd
 - [VK](https://vk.com/elixir_ruby_rostov) - https://vk.com/elixir_ruby_rostov
+
+## RND.JS
+- [VK](https://vk.com/rndjs) - https://vk.com/rndjs
+- [YouTube](https://www.youtube.com/channel/UC23mRXB-Xuae-a_x74NNe9w) - https://www.youtube.com/channel/UC23mRXB-Xuae-a_x74NNe9w
+- [Twitter](https://twitter.com/RNDJSmeetup) - https://twitter.com/RNDJSmeetup
 
 ### WTM Rostov
 - [Telegram-чат](https://t.me/wtmrnd) - https://t.me/wtmrnd
