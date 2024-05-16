@@ -1,20 +1,5 @@
 # Москва
 
-## Google
-- [Google Developer Group](../Google/gdg.md)
-- [Developer Student Club](../Google/dsc.md)
-- [Women Techmakers](../Google/wtm.md)
-
-### WTM Moscow
-- [Telegram-чат](https://t.me/wtm_moscow) - https://t.me/wtm_moscow
-
-### GDG Moscow
-- [Telegram-чат](https://t.me/gdgmsk_chat) - https://t.me/gdgmsk_chat
-- [VK](https://vk.com/gdgms) - https://vk.com/gdgmsk
-- [Meetup](https://www.meetup.com/ru-RU/GDG-Moscow/) - https://www.meetup.com/ru-RU/GDG-Moscow/
-- [Facebook](https://www.facebook.com/gdgmsk.events/) - https://www.facebook.com/gdgmsk.events/
-- [YouTube](https://www.youtube.com/channel/UCfmGrNtGWRLJcV-bcPfDBxg) - https://www.youtube.com/channel/UCfmGrNtGWRLJcV-bcPfDBxg
-
 ## BeerJS
 - [BeerJS](../BeerJS/beerjs.md)
 

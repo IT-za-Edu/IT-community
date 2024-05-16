@@ -76,12 +76,6 @@
 - [UI/UX](expertise/ui_ux.md)
 - [Функциональное программирование](expertise/fp.md)
 
-## Сообщества от Google
-
-- [Developer Student Club](Google/dsc.md)
-- [Google Developer Group](Google/gdg.md)
-- [Women Techmakers](Google/wtm.md)
-
 ## BeerJS
 
 - [BeerJS](BeerJS/beerjs.md)

@@ -8,23 +8,6 @@
 - [Twitter](https://twitter.com/devdv_ru) - https://twitter.com/devdv_ru
 - [Facebook](https://www.facebook.com/devDV.ru/) - https://www.facebook.com/devDV.ru/
 
-## Google
-- [Google Developer Group](../Google/gdg.md)
-- [Developer Student Club](../Google/dsc.md)
-- [Women Techmakers](../Google/wtm.md)
-
-### GDG Khabarovsk
-- [Сайт](https://gdgkhv.ru/) - https://gdgkhv.ru/
-- [Telegram-чат](https://t.me/GdgHa) - https://t.me/GdgHa
-- [Instagram](https://www.instagram.com/gdg_khv/) - https://www.instagram.com/gdg_khv/
-- [Twitter](https://twitter.com/gdg_khv) - https://twitter.com/gdg_khv
-- [Facebook](https://www.facebook.com/groups/882404518795531/) - https://www.facebook.com/groups/882404518795531/
-
-### WTM Хабаровск
-- [Facebook](https://www.facebook.com/groups/397418544455112/) - https://www.facebook.com/groups/397418544455112/
-- [Instagram](https://www.instagram.com/wtm_khv/) - https://www.instagram.com/wtm_khv/
-- [DevDV](https://devdv.ru/projects/wtm) - https://devdv.ru/projects/wtm
-
 ## BeerJS
 - [BeerJS](../BeerJS/beerjs.md)
 

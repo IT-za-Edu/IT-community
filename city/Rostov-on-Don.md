@@ -11,11 +11,6 @@
 - [Twitter](https://twitter.com/it_rostov) - https://twitter.com/it_rostov
 - [GitHub](https://github.com/orgs/IT61) - https://github.com/orgs/IT61
 
-## Google
-- [Google Developer Group](../Google/gdg.md)
-- [Developer Student Club](../Google/dsc.md)
-- [Women Techmakers](../Google/wtm.md)
-
 ## Ростов PHP
 - [Telegram-чат](https://t.me/rndphp) - https://t.me/rndphp
 - [VK](https://vk.com/rnd_php) - https://vk.com/rnd_php
@@ -28,17 +23,6 @@
 - [VK](https://vk.com/rndjs) - https://vk.com/rndjs
 - [YouTube](https://www.youtube.com/channel/UC23mRXB-Xuae-a_x74NNe9w) - https://www.youtube.com/channel/UC23mRXB-Xuae-a_x74NNe9w
 - [Twitter](https://twitter.com/RNDJSmeetup) - https://twitter.com/RNDJSmeetup
-
-### WTM Rostov
-- [Telegram-чат](https://t.me/wtmrnd) - https://t.me/wtmrnd
-
-## GDG Rostov-on-Don
-- [Сайт](https://gdgrnd.ru/) - https://gdgrnd.ru/
-- [Telegram-чат](https://telegram.me/joinchat/AskJkT6wOhMrZZduWTBPtw) - https://telegram.me/joinchat/AskJkT6wOhMrZZduWTBPtw
-- [VK](https://vk.com/gdgrnd) - https://vk.com/gdgrnd
-- [YouTube](https://www.youtube.com/channel/UCEGCwbU4OOpCZ38AA0coADA) - https://www.youtube.com/channel/UCEGCwbU4OOpCZ38AA0coADA
-- [Instagram](https://www.instagram.com/gdg_rnd/) - https://www.instagram.com/gdg_rnd/
-- [GitHub](https://github.com/GDG-Rostov) - https://github.com/GDG-Rostov
 
 ## Kotlin User Group
 - [KUG](../Kotlin%20User%20Group/kug.md)

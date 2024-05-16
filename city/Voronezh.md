@@ -40,22 +40,6 @@
 - [GitHub](https://github.com/golang-voronezh) - https://github.com/golang-voronezh
 - [Meetup](https://www.meetup.com/ru-RU/Golang-Voronezh/) - https://www.meetup.com/ru-RU/Golang-Voronezh/
 
-## Google
-- [Google Developer Group](../Google/gdg.md)
-- [Developer Student Club](../Google/dsc.md)
-- [Women Techmakers](../Google/wtm.md)
-
-### DSC Voronezh
-- [Telegram-чат](https://t.me/dscvoronezh) - https://t.me/dscvoronezh
-- [VK](https://vk.com/dscvsu) - https://vk.com/dscvsu
-
-### GDG Voronezh
-- [Telegram-чат](https://t.me/gdgvrn) - https://t.me/gdgvrn
-- [VK](https://vk.com/gdgvoronezh) - https://vk.com/gdgvoronezh
-- [Instagram](https://www.instagram.com/gdg.voronezh/) - https://www.instagram.com/gdg.voronezh/
-- [Twitter](https://twitter.com/GdgVoronezh) - https://twitter.com/GdgVoronezh
-- [Facebook](https://www.facebook.com/gdgvoronezh) - https://www.facebook.com/gdgvoronezh
-
 ## Воронежский IT-кластер
 - [Сайт](http://itvoronezh.ru/) - http://itvoronezh.ru/
 - [Facebook](https://www.facebook.com/itclustervo) - https://www.facebook.com/itclustervo
