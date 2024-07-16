@@ -28,3 +28,6 @@
 
 ## DOTNET.RU НИЖНИЙ НОВГОРОД
 - [VK](https://vk.com/NnvDotNet) - https://vk.com/NnvDotNet
+
+## PythoNN
+- [Telegram-чат](https://t.me/pytho_nn) - https://t.me/pytho_nn
