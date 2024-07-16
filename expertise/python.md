@@ -1,7 +1,7 @@
 # Python
 
 ## Python Kaliningrad
--[Telegram-чат](https://t.me/pythonkaliningrad) - https://t.me/pythonkaliningrad
+- [Telegram-чат](https://t.me/pythonkaliningrad) - https://t.me/pythonkaliningrad
 
 ## Minsk Python Meetup
 - [Сайт](https://minskpython.github.io/) - https://minskpython.github.io/
