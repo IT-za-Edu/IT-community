@@ -1,5 +1,9 @@
 # Воронеж
 
+## GR 2.0
+- [Сайт](https://gr20.ru) - https://gr20.ru
+- [Telegram-канал](https://t.me/gr2hub) - https://t.me/gr2hub
+
 ## Глубокий рефакторинг
 - [Сайт](https://deeprefactoring.ru) - https://deeprefactoring.ru
 - [Telegram-чат](https://t.me/deeprefactoring) - https://t.me/deeprefactoring
